@@ -27,7 +27,7 @@ _builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'like_pb2', _globals)
 if _descriptor._USE_C_DESCRIPTORS == False:
   DESCRIPTOR._options = None
   _globals['_LIKE']._serialized_start=14
-  _globals['_LIKE']._serialized_end=49
+  _globals['_LIKE']._serialized_end=99
 # @@protoc_insertion_point(module_scope)
 #this code was made by cutehack
 #this code was made by cutehack
